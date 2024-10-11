@@ -119,6 +119,7 @@
   </resheader>
   <data name="comboBoxInsert.Items" xml:space="preserve">
     <value>Chèn...</value>
+    <comment>...</comment>
   </data>
   <data name="checkBoxUnescape.Text" xml:space="preserve">
     <value>Cho phép ký tự thoát</value>

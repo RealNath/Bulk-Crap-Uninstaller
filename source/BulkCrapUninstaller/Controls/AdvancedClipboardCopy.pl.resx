@@ -122,6 +122,7 @@
   </data>
   <data name="comboBoxInsert.Items" xml:space="preserve">
     <value>Wstaw...</value>
+    <comment>...</comment>
   </data>
   <data name="buttonHelp.Text" xml:space="preserve">
     <value>Pomoc</value>

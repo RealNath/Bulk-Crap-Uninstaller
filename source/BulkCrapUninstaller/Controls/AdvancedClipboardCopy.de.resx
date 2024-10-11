@@ -128,6 +128,7 @@
   </data>
   <data name="comboBoxInsert.Items" xml:space="preserve">
     <value>Einfügen</value>
+    <comment>...</comment>
   </data>
   <data name="checkBoxUnescape.Text" xml:space="preserve">
     <value>Ausgabe abbrechen</value>

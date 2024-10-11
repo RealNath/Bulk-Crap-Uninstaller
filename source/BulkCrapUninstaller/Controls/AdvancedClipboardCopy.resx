@@ -126,6 +126,7 @@
   </data>
   <data name="comboBoxInsert.Items" xml:space="preserve">
     <value>Insert...</value>
+    <comment>...</comment>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="comboBoxInsert.Location" type="System.Drawing.Point, System.Drawing">

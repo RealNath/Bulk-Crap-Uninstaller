@@ -118,87 +118,86 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="checkBoxOrphans.Text" xml:space="preserve">
-    <value>显示未注册的应用程序</value>
+    <value>Perlihatkan aplikasi yang tidak terdaftar</value>
   </data>
   <data name="checkBoxOrphans.ToolTip" xml:space="preserve">
-    <value>显示没有任何已注册卸载程序的应用程序。它们在大多数卸载管理器中不可见，但仍会占用空间。未注册的项目用红色标记。
+    <value>Perlihatkan aplikasi yang penghapus instalannya tidak terdaftar. Mereka tidak terlihat dalam kebanyakan manager penghapusan instalan, tapi tetap memakan memori. Aplikasi/program yang tidak terdaftar berwarna merah.
 
-警告：在删除这些应用程序之前，请仔细检查，它们可能仍然是必需的！</value>
+Perhatian: Cek sekali lagi sebelum hapus aplikasinya, ada kemungkinan masih diperlukan!</value>
   </data>
   <data name="checkBoxInvalidTest.Text" xml:space="preserve">
-    <value>突出显示丢失的卸载程序</value>
+    <value>Perjelas aplikasi yang penghapus instalannya tidak ada.</value>
   </data>
   <data name="checkBoxInvalidTest.ToolTip" xml:space="preserve">
-    <value>使用灰色标记已损坏或丢失的卸载程序。</value>
+    <value>Pakai warna abu-abu untuk aplikasi/program yang penghapus instalannya hilang atau rusak.</value>
   </data>
   <data name="checkBoxCertTest.Text" xml:space="preserve">
-    <value>突出显示已认证卸载程序</value>
+    <value>Perjelas aplikasi yang penghapus instalannya tersertifikasi</value>
   </data>
   <data name="checkBoxCertTest.ToolTip" xml:space="preserve">
-    <value>使用颜色标识已认证的卸载程序。
-如果证书验证成功，使用绿色，否则使用蓝色。
+    <value>Pakai warna untuk aplikasi/program yang penghapus installnya tersertifikasi. Jika sertifikasi dapat diverifikasi, pakai warna hijau; jika tidak, biru.
 
-警告：验证可能需要很长时间才能完成。</value>
+PERHATIAN - Verifikasi butuh waktu lama.</value>
   </data>
   <data name="checkBoxListHideMicrosoft.Text" xml:space="preserve">
-    <value>隐藏由Microsoft发布的内容</value>
+    <value>Sembunyikan aplikasi terbitan Microsoft.</value>
   </data>
   <data name="checkBoxListHideMicrosoft.ToolTip" xml:space="preserve">
-    <value>筛选掉Microsoft发布的所有内容。就这么简单。</value>
+    <value>Aplikasi yang dipublikasi oleh Microsoft tidak ditampilkan. Sesimpel itu.</value>
   </data>
   <data name="checkBoxListSysComp.Text" xml:space="preserve">
-    <value>显示系统组件</value>
+    <value>Perlihatkan komponen sistem.</value>
   </data>
   <data name="checkBoxListSysComp.ToolTip" xml:space="preserve">
-    <value>一些卸载程序可能被标记为"系统组件"，以从添加/删除软件列表中隐藏它们。
-驱动程序经常被标上这个标签。</value>
+    <value>Beberapa penghapus instalan dilabeli sebagai "komponen sistem" agar tersembunyi dari daftar penambahan/penghapusan perangkat lunak.
+Driver biasanya dilabeli "komponen sistem"</value>
   </data>
   <data name="checkBoxListProtected.Text" xml:space="preserve">
-    <value>显示受保护项目</value>
+    <value>Perlihatkan aplikasi/program yang dilindungi.</value>
   </data>
   <data name="checkBoxListProtected.ToolTip" xml:space="preserve">
-    <value>受保护项目被标记为"不要删除"标签，表示发布者不希望你删除它们。</value>
+    <value>Aplikasi yang dilindungi dilabeli "NoRemove", karena penerbit tidak ingin aplikasinya dihapus.</value>
   </data>
   <data name="checkBoxTweaks.Text" xml:space="preserve">
-    <value>显示调整</value>
+    <value>Perlihatkan penyesuaian</value>
   </data>
   <data name="checkBoxShowUpdates.Text" xml:space="preserve">
-    <value>显示更新</value>
+    <value>Perlihatkan pembaruan</value>
   </data>
   <data name="checkBoxShowUpdates.ToolTip" xml:space="preserve">
-    <value>其他应用程序的更新。通常它们与父应用程序一起卸载，因此可以忽略它们。</value>
+    <value>Pembaruan aplikasi lain. Biasanya dihapus instalannya beserta aplikasi induknya, bisa diabaikan saja.</value>
   </data>
   <data name="checkBoxWinFeature.Text" xml:space="preserve">
-    <value>显示Windows功能</value>
+    <value>Perlihatkan fitur Windows</value>
   </data>
   <data name="checkBoxShowStoreApps.Text" xml:space="preserve">
-    <value>显示Windows商店应用</value>
+    <value>Perlihatkan aplikasi Microsoft Store</value>
   </data>
   <data name="groupBox2.Text" xml:space="preserve">
-    <value>筛选器</value>
+    <value>Filter</value>
   </data>
   <data name="checkBoxViewCheckboxes.Text" xml:space="preserve">
-    <value>使用复选框选择</value>
+    <value>Pilih dengan kotak centang</value>
   </data>
   <data name="checkBoxViewCheckboxes.ToolTip" xml:space="preserve">
-    <value>将列表的选择样式更改为复选框。这样更安全，因为单击不能取消选择所有内容。
+    <value>Mengubah cara memilih pada daftar. Lebih aman karena jika salah klik, tidak perlu klik ulang yang sudah terpilih.
 
-你可以通过突出显示多个项目并按空格键来选中它们。</value>
+Kotak centang beberapa aplikasi/program bisa dicentang sekaligus dengan cara menandai mereka seperti biasa, lalu tekan spasi.</value>
   </data>
   <data name="checkBoxViewGroups.Text" xml:space="preserve">
-    <value>按组显示项目</value>
+    <value>Perlihatkan aplikasi/program dalam grup</value>
   </data>
   <data name="checkBoxViewGroups.ToolTip" xml:space="preserve">
-    <value>根据列表排序的列对项目进行分组。
-大多数列的分组使用智能筛选。</value>
+    <value>Kelompokkan aplikasi/program sesuai dengan kolom sortiran daftarnya.
+Pengelompokan kebanyakan memakai filter cerdas.</value>
   </data>
   <data name="checkBoxHighlightSpecial.Text" xml:space="preserve">
-    <value>突出显示特殊的卸载程序</value>
+    <value>Perjelas aplikasi/program yang penghapus instalannya spesial.</value>
   </data>
   <data name="checkBoxHighlightSpecial.ToolTip" xml:space="preserve">
-    <value>使用颜色区分特殊应用程序，例如商店应用程序和Windows功能。</value>
+    <value>Pakai warna untuk membedakan aplikasi spesial, misalnya aplikasi dari Microsoft Store, dan WIndows Features.</value>
   </data>
   <data name="groupBox1.Text" xml:space="preserve">
-    <value>列表视图设置</value>
+    <value>Setting tampilan daftar</value>
   </data>
 </root>

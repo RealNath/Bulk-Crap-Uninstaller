@@ -119,6 +119,7 @@
   </resheader>
   <data name="comboBoxInsert.Items" xml:space="preserve">
     <value>挿入</value>
+    <comment>...</comment>
   </data>
   <data name="checkBoxUnescape.Text" xml:space="preserve">
     <value>アンエスケープ</value>
